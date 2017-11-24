@@ -1,0 +1,13 @@
+ <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="top_line">
+                        <img src="img/logo.png" alt="logo">
+                        <ul>
+                          <li><a href="#" class="active">Семплы</a></li>
+                          <li><a href="#">Понравились</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>

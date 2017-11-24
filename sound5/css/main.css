@@ -1,0 +1,156 @@
+header {
+  background-color: rgba(252, 248, 227, 0.6);
+}
+
+.top_line {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  border-bottom: 1px solid #000;
+  box-shadow: 0px 20px 20px rgba(215, 215, 215, 0.6);
+}
+
+.top_line ul li {
+  display: inline-block;
+  padding-right: 10px;
+  margin-top: 35px;
+}
+
+.top_line span {
+  text-align: right;
+  border: 1px solid;
+  border-radius: 50%;
+  padding: 30px 53px;
+  background: #fff;
+}
+
+.avatar {
+  margin-top: 30px;
+  width: 70%;
+  text-align: right;
+}
+
+.trig {
+  display: inline-block;
+  border: 20px solid transparent;
+  border-top: 20px solid #000;
+  margin-top: 57px;
+}
+
+.treck {
+  text-align: left;
+}
+
+form {
+  margin-top: 30px;
+  color: #000;
+  background-color: #D9EDF7;
+}
+
+form p {
+  margin: 0;
+}
+
+form a {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.janr {
+  color: #000;
+}
+
+.bpm {
+  font-weight: bold;
+}
+
+.bpm_line {
+  border: solid #000 1px;
+  border-radius: 50px 50px 50px 50px;
+  height: 10px;
+  width: 70%;
+}
+
+.circle {
+  border: 1px solid #000000;
+  display: block;
+  background-color: #000;
+  border-radius: 50%;
+  height: 20px;
+  width: 20px;
+  margin: -5px;
+}
+
+.right {
+  margin-left: 230px;
+  margin-top: -20px;
+}
+
+.string_line {
+  width: 70px;
+}
+
+.string {
+  margin-top: 30px;
+}
+
+.string_right {
+  margin-left: 98px;
+}
+
+.instrumentals {
+  margin-top: 80px;
+}
+
+.items {
+  display: inline-block;
+}
+
+.items li {
+  display: inline-block;
+  padding-right: 15px;
+}
+
+.items li a {
+  text-decoration: none;
+}
+
+.sortirovka {
+  margin-top: 30px;
+  border-bottom: 1px solid #000;
+}
+
+.treck {
+  border-bottom: 1px solid #ccc;
+}
+
+.treck .house {
+  border: solid 1px #000000;
+  border-radius: 10px 10px 10px 10px;
+  padding: 5px;
+  color: #007bff;
+}
+
+.treck img {
+  padding: 0px 10px;
+}
+
+.like {
+  padding: 10px;
+  border-left: 1px solid;
+  border-right: 1px solid;
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.fa {
+  padding: 0px 10px;
+}
+
+.treck a {
+  font-size: 30px;
+}
+
+.second {
+  margin-top: 30px;
+}
